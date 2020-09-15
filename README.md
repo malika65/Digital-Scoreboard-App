@@ -1,5 +1,5 @@
 # Digital-Scoreboard-App
 
-![Alt text](https://ibb.co/mtrpWbb)
-![Alt text](https://ibb.co/QbBMpD0)
-![Alt text](https://ibb.co/rmsBv0Z)
+![App](https://i.imgur.com/uXREalL.jpg)
+![App with items](https://i.imgur.com/wpQuq52.jpg)
+![App in tablet screen](https://i.imgur.com/bBl7gos.jpg)
